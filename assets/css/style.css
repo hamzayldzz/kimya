@@ -742,7 +742,6 @@ section {
   max-height: 180px !important;
 }
 .img-box-a {
-  overflow: hidden;
   max-height: 180px;
 }
 
@@ -897,6 +896,10 @@ section {
   .swiper-pagination
   .swiper-pagination-bullet-active {
   background-color: #d9232d;
+}
+.swiper-slide {
+  max-height: 700px;
+  width: auto;
 }
 
 .portfolio-details .portfolio-info {
