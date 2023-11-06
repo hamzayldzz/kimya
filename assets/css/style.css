@@ -900,7 +900,7 @@ section {
   background-color: #d9232d;
 }
 .swiper-slide {
-  max-height: 700px;
+  max-height: 400px;
   width: auto;
 }
 
@@ -2814,4 +2814,8 @@ section {
 
 .agent-info-box .socials-footer li {
   margin-right: 1.5rem;
+}
+
+#fiyat {
+  text-align: right !important;
 }
