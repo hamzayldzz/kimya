@@ -2819,3 +2819,7 @@ section {
 #right {
   text-align: right !important ;
 }
+
+.animate__fadeInUp {
+  font-size: larger;
+}
