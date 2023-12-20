@@ -741,10 +741,10 @@ section {
 }
 
 .carousel-item-b .img-box-a {
-  max-height: 180px !important;
+  height: 180px !important;
 }
 .img-box-a {
-  max-height: 180px;
+  height: 180px;
 }
 
 .portfolio #portfolio-flters {
