@@ -741,7 +741,7 @@ section {
 }
 
 .carousel-item-b .img-box-a {
-  height: 180px !important;
+  height: 180px;
 }
 .img-box-a {
   height: 180px;
